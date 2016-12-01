@@ -1,0 +1,18 @@
+//
+//  Tools-PrefixHeader.pch
+//  XFTools
+//
+//  Created by 谢帆 on 16/11/30.
+//  Copyright © 2016年 谢帆. All rights reserved.
+//
+
+#ifndef Tools_PrefixHeader_pch
+#define Tools_PrefixHeader_pch
+
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+#import "ToolsHeader.h"
+
+#endif /* Tools_PrefixHeader_pch */
